@@ -1,0 +1,3 @@
+**/*.class
+/week2/*.jar
+/week1/percolation/*.jar
